@@ -1,0 +1,14 @@
+C:\Users\tangu\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.csprojAssemblyReference.cache
+C:\Users\tangu\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.csproj.CoreCompileInputs.cache
+C:\Users\tangu\source\repos\Probleme_POO\Probleme_POO\bin\Debug\Probleme_POO.exe.config
+C:\Users\tangu\source\repos\Probleme_POO\Probleme_POO\bin\Debug\Probleme_POO.exe
+C:\Users\tangu\source\repos\Probleme_POO\Probleme_POO\bin\Debug\Probleme_POO.pdb
+C:\Users\tangu\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.exe
+C:\Users\tangu\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.pdb
+C:\Users\Tanguy\source\repos\Probleme_POO\Probleme_POO\bin\Debug\Probleme_POO.exe.config
+C:\Users\Tanguy\source\repos\Probleme_POO\Probleme_POO\bin\Debug\Probleme_POO.exe
+C:\Users\Tanguy\source\repos\Probleme_POO\Probleme_POO\bin\Debug\Probleme_POO.pdb
+C:\Users\Tanguy\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.csproj.CoreCompileInputs.cache
+C:\Users\Tanguy\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.exe
+C:\Users\Tanguy\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.pdb
+C:\Users\Tanguy\source\repos\Probleme_POO\Probleme_POO\obj\Debug\Probleme_POO.csprojResolveAssemblyReference.cache
